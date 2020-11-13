@@ -17,7 +17,7 @@ nav#navigation ul {
 nav#navigation ul li {
   display: inline-block;
   float: left;
-  text-align: middle;
+  text-align: center;
 }
 
 nav#navigation ul li a {
@@ -46,7 +46,7 @@ text-align: center;
 
 #resume_wrapper {
   width: 750px;
-  position: center;
+  position: sticky;
   margin-left: auto;
   margin-right: auto;
   padding: 10px;
